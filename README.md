@@ -7,7 +7,6 @@ Project Admin:<br>
   <img src="https://contrib.rocks/image?repo=Rajspeaks/color-picker" />
 </a>
 
-Made with [contributors-img](https://contrib.rocks).
 
 <br>
 
