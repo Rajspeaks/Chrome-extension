@@ -19,7 +19,7 @@ Check out the <a href="https://github.com/Rajspeaks/Chrome-extension/issues">ISS
 # Repo Maintainer:<br>
 
 
-<img src="https://github.com/Rajspeaks.png?size="100" />
+<img src="https://github.com/Rajspeaks.png?size=100" />
 
 
 <br>
