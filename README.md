@@ -1,7 +1,11 @@
-# Color Picker
-It's a chrome extension to choose your suitable colours
+# Chrome Extension
+This repository consists of chrome extensions, made for different purposes.
 
-Project Admin:<br>
+<h2>Public Contributiona are welcome</h2>
+
+# Only valid PRs will be accepted!
+
+# Project Admin:<br>
 
 <a href="https://github.com/Rajspeaks/color-picker/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Rajspeaks/color-picker" />
