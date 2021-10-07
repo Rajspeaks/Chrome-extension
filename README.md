@@ -1,7 +1,7 @@
 # Chrome Extension
 This repository consists of chrome extensions, made for different purposes.
 
-<h2>Public Contributiona are welcome</h2>
+<h2>Public Contributions are welcome</h2>
 
 # Only valid PRs will be accepted!
 
