@@ -9,7 +9,8 @@ Used: HTML, CSS, JS, JSON(manifest.json)
 
 # Screenshot
 
-<img src="https://github.com/Rajspeaks/Chrome-extension/blob/main/Colour%20Cool/screenshot/screenshot.png">
+<img src="https://github.com/Rajspeaks/Chrome-extension/blob/main/Colour%20Cool/screenshot/screenshot.png"> &nbsp;
+<img src="https://github.com/Rajspeaks/Chrome-extension/blob/main/Colour%20Cool/screenshot/screenshot2.png">
 
 <br>
 
