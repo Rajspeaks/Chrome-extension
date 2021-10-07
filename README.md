@@ -7,9 +7,9 @@ Check out the <a href="https://github.com/Rajspeaks/Chrome-extension/issues">ISS
 <br>
 1. Create a folder with your extension name.<br>
 2. Upload your files.<br>
-3. Create a seperate folder to store your extensiob's screenshots.<br>
-4. Add a READ.md file to describe about your extesnion along with those screenshots.<br>
-5. Mention your name, github handle with link in that READ.md file.<br>
+3. Create a seperate folder to store your extension's screenshots.<br>
+4. Add a README.md file to describe about your extesnion along with those screenshots.<br>
+5. Mention your name, github handle with link in that README.md file.<br>
 6. Now it's time for your PULL REQUEST.<br>
 
 # Only valid PRs will be accepted!
