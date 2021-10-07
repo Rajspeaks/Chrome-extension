@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+	<link rel="icon" href="icons/icon.png">
+    <title>Colour Cool</title>
+</head>
+
+<body>
+<center>
+    <div class="container" id="container">
+	<img src="icons/icon.png" height="100px" width="100px">
+	<br>
+        <label for="" id="title">Colour Cool</label>
+        <div id="colorBG"></div>
+        <div class="colorcode">
+            <span id="colorcodespan">rgb(0, 0, 0)</span>
+        </div>
+
+        <div class="box">
+            <label for="red">Red</label>
+            <input id="red" type="range" min="0" max="256" value="0">
+            <output id="showRedValue"></output>
+            <br>
+            <label for="green">Green</label>
+            <input id="green" type="range" min="0" max="256" value="0">
+            <output id="showGreenValue"></output>
+            <br>
+            <label for="blue">Blue</label>
+            <input id="blue" type="range" min="0" max="256" value="0">
+            <output id="showBlueValue"></output>
+
+
+            <div class="buttonSection">
+                <button id="copyCode">Copy</button>
+				
+            </div>
+			
+        </div>
+		Developed by <a href="https://github.com/Rajspeaks" style="text-decoration:none;">Rajdeep Das</a>
+    </div>
+
+    <script src="script.js"></script>
+	</center>
+</body>
+
+</html>
