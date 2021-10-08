@@ -1,8 +1,9 @@
 # Chrome Extension
 
 <p align center>
-<img src="https://github.com/Rajspeaks/Chrome-extension/blob/main/icon.jpg" height="300px" width="500px">
+<img src="https://github.com/Rajspeaks/Chrome-extension/blob/main/icon.jpg" height="250px" width="300px">
   </p>
+  
   <br>
 This repository consists of chrome extensions, made for different purposes.
 
