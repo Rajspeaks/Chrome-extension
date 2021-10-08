@@ -1,4 +1,6 @@
 # Chrome Extension
+
+<img align="center" src="https://github.com/Rajspeaks/Chrome-extension/blob/main/icon.jpg" height="300px" width="300px">
 This repository consists of chrome extensions, made for different purposes.
 
 <h2>Public Contributions are welcome</h2>
