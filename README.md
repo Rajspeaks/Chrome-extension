@@ -5,6 +5,7 @@ This repository consists of chrome extensions, made for different purposes.
 <br>
 Check out the <a href="https://github.com/Rajspeaks/Chrome-extension/issues">ISSUES </a> and get ready to solve.
 <br>
+
 # Step to Contribute:
 
 1. Create a folder with your extension name.<br>
