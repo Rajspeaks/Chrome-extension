@@ -14,7 +14,7 @@ Check out the <a href="https://github.com/Rajspeaks/Chrome-extension/issues">ISS
 
 # Step to Contribute:
 
-1. Create a folder with your extension name.<br>
+1. Create a folder with your unique extension name.<br>
 2. Upload your files.<br>
 3. Create a seperate folder to store your extension's screenshots.<br>
 4. Add a README.md file to describe about your extesnion along with those screenshots.<br>
